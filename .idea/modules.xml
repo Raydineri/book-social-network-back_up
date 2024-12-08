@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/book-social-network.iml" filepath="$PROJECT_DIR$/.idea/book-social-network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-network/book-social-network.iml" filepath="$PROJECT_DIR$/book-network/book-social-network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/book-social-network - Copy.iml" filepath="$PROJECT_DIR$/.idea/book-social-network - Copy.iml" />
     </modules>
   </component>
 </project>
